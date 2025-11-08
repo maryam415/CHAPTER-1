@@ -1,6 +1,5 @@
 chapter # 1 
-**classes.py **
-<img width="333" height="240" alt="Capture" src="https://github.com/user-attachments/assets/c5383b56-2a27-4892-841c-824fb4c38840" />
+**classes.py**
 
 in this code value is depended on instance of classes if the vale is change then the instance will be change.
 class variable is shared among all objects, while instance variables are unique to each object.
